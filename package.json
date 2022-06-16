@@ -37,7 +37,7 @@
 	"devDependencies": {
 		"@babel/core": "7.18.5",
 		"@expo/webpack-config": "0.16.24",
-		"@types/react": "17.0.46",
+		"@types/react": "18.0.13",
 		"@types/react-dom": "17.0.17",
 		"@types/react-native": "0.67.8",
 		"@wcpos/babel-preset-expo": "*",
