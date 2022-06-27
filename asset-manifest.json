@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/managed-expo/static/js/app.1f4c1e30.chunk.js",
-    "app.js.map": "/managed-expo/static/js/app.1f4c1e30.chunk.js.map",
+    "app.js": "/managed-expo/static/js/app.38b9c947.chunk.js",
+    "app.js.map": "/managed-expo/static/js/app.38b9c947.chunk.js.map",
     "runtime~app.js": "/managed-expo/static/js/runtime~app.73c460a4.js",
     "runtime~app.js.map": "/managed-expo/static/js/runtime~app.73c460a4.js.map",
-    "static/js/2.ad7f30eb.chunk.js": "/managed-expo/static/js/2.ad7f30eb.chunk.js",
-    "static/js/2.ad7f30eb.chunk.js.map": "/managed-expo/static/js/2.ad7f30eb.chunk.js.map",
+    "static/js/2.9975fa8e.chunk.js": "/managed-expo/static/js/2.9975fa8e.chunk.js",
+    "static/js/2.9975fa8e.chunk.js.map": "/managed-expo/static/js/2.9975fa8e.chunk.js.map",
     "favicon-16.png": "/managed-expo/favicon-16.png",
     "favicon-32.png": "/managed-expo/favicon-32.png",
     "favicon.ico": "/managed-expo/favicon.ico",
     "index.html": "/managed-expo/index.html",
     "manifest.json": "/managed-expo/manifest.json",
     "serve.json": "/managed-expo/serve.json",
-    "static/js/2.ad7f30eb.chunk.js.LICENSE.txt": "/managed-expo/static/js/2.ad7f30eb.chunk.js.LICENSE.txt"
+    "static/js/2.9975fa8e.chunk.js.LICENSE.txt": "/managed-expo/static/js/2.9975fa8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.73c460a4.js",
-    "static/js/2.ad7f30eb.chunk.js",
-    "static/js/app.1f4c1e30.chunk.js"
+    "static/js/2.9975fa8e.chunk.js",
+    "static/js/app.38b9c947.chunk.js"
   ]
 }
