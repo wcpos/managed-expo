@@ -2,12 +2,12 @@
   "files": {
     "app.js": "/static/js/app.1ef73794.chunk.js",
     "app.js.map": "/static/js/app.1ef73794.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.3a2095c5.js",
-    "runtime~app.js.map": "/static/js/runtime~app.3a2095c5.js.map",
-    "static/js/2.a775baa4.chunk.js": "/static/js/2.a775baa4.chunk.js",
-    "static/js/2.a775baa4.chunk.js.map": "/static/js/2.a775baa4.chunk.js.map",
-    "static/js/3.625088f2.chunk.js": "/static/js/3.625088f2.chunk.js",
-    "static/js/3.625088f2.chunk.js.map": "/static/js/3.625088f2.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.a47b83b5.js",
+    "runtime~app.js.map": "/static/js/runtime~app.a47b83b5.js.map",
+    "static/js/2.348e288c.chunk.js": "/static/js/2.348e288c.chunk.js",
+    "static/js/2.348e288c.chunk.js.map": "/static/js/2.348e288c.chunk.js.map",
+    "static/js/3.cdfd456c.chunk.js": "/static/js/3.cdfd456c.chunk.js",
+    "static/js/3.cdfd456c.chunk.js.map": "/static/js/3.cdfd456c.chunk.js.map",
     "static/js/4.129cbf02.chunk.js": "/static/js/4.129cbf02.chunk.js",
     "static/js/4.129cbf02.chunk.js.map": "/static/js/4.129cbf02.chunk.js.map",
     "favicon-16.png": "/favicon-16.png",
@@ -16,12 +16,12 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.a775baa4.chunk.js.LICENSE.txt": "/static/js/2.a775baa4.chunk.js.LICENSE.txt",
-    "static/js/3.625088f2.chunk.js.LICENSE.txt": "/static/js/3.625088f2.chunk.js.LICENSE.txt"
+    "static/js/2.348e288c.chunk.js.LICENSE.txt": "/static/js/2.348e288c.chunk.js.LICENSE.txt",
+    "static/js/3.cdfd456c.chunk.js.LICENSE.txt": "/static/js/3.cdfd456c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.3a2095c5.js",
-    "static/js/2.a775baa4.chunk.js",
+    "static/js/runtime~app.a47b83b5.js",
+    "static/js/2.348e288c.chunk.js",
     "static/js/app.1ef73794.chunk.js"
   ]
 }
